@@ -1,0 +1,2 @@
+# Rationalisation-nerg-tique-dans-les-b-timents-administratifs
+Nous avons été lauréat de la catégorie "Rationalisation énergétique dans les bâtiments administratifs" lors de la 8ème édition du concours Génie Tic au Burkina Faso. Le projet consiste à la conception de prise connectée et du contrôle à distance des appareils électriques pour gestion intelligente de l'énergie afin d'éviter le gaspillage.
